@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi there 😜
 
-<!--
-**GabGas9819/GabGas9819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 25-year-old guy who is absolutely passionate about programming and all things tech. I'm currently exploring the programming world with a fresh perspective and an eagerness to learn and grow.
 
-Here are some ideas to get you started:
+I strongly believe that programming is not just a skill, but a creative outlet that allows me to bring ideas to life. I enjoy the process of solving problems, writing clean and efficient code, and building innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time, you'll often find me tinkering with side projects, exploring open-source repositories, and staying up-to-date with the latest trends and advancements in the tech industry.✨
+
+### Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EricaCandido"/>
+
+
+### Stats 📈
+<img src="https://github-readme-stats.vercel.app/api?username=EricaCandido&show_icons=true"/>  
+
+### Fields of application
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
