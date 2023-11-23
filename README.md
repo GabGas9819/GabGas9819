@@ -7,11 +7,11 @@ I strongly believe that programming is not just a skill, but a creative outlet t
 In my free time, you'll often find me tinkering with side projects, exploring open-source repositories, and staying up-to-date with the latest trends and advancements in the tech industry.✨
 
 ### Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EricaCandido"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabGas9819"/>
 
 
 ### Stats 📈
-<img src="https://github-readme-stats.vercel.app/api?username=EricaCandido&show_icons=true"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=GabGas9819&show_icons=true"/>  
 
 ### Fields of application
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
